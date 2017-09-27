@@ -138,6 +138,7 @@ namespace Line_Bot_Application2.Controllers
         {
             LineMessageHandler handler = new LineMessageHandler(lineEvent);
             var textMessage = JsonConvert.DeserializeObject<TextMessage>(lineEvent.Message.ToString());
+            var UserID = lineEvent.Source.UserId;
             Message replyMessage = null;
             if (textMessage.Text.ToLower() == "buttons")
             {
@@ -172,7 +173,7 @@ namespace Line_Bot_Application2.Controllers
             else
             {   
 
-                replyMessage = new TextMessage(textMessage.Text);
+                replyMessage = new TextMessage(UserID);
             }
             await Reply(replyMessage);
         }
