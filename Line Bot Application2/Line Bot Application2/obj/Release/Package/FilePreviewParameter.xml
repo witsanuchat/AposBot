@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="AposBot" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\home\\documents\\visual\ studio\ 2015\\Projects\\Line\ Bot\ Application2\\Line\ Bot\ Application2\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\home\\documents\\visual\ studio\ 2015\\Projects\\Line\ Bot\ Application2\\Line\ Bot\ Application2\\obj\\Release\\Package\\PackageTmp$" />
-  </parameter>
-</parameters>
