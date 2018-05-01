@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AposBOTConnectionString-Web.config Connection String" description="AposBOTConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=aposbotserver.database.windows.net;Initial Catalog=AposBOT;User ID=chatpont;Password=P.Apos!bot" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Home\\Documents\\Visual\ Studio\ 2015\\Projects\\Line\ Bot\ Application2\\Line\ Bot\ Application2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AposBOTConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,4 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Domain\bin\Release\Domain.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Domain\bin\Release\Domain.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Domain\obj\Release\Domain.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Domain\obj\Release\Domain.pdb

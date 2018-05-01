@@ -1,0 +1,30 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\csc.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\vbc.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\VBCSCompiler.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Session.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Session.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Domain.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Line Bot Application2.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\System.Web.Http.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\LineMessagingAPISDK.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Domain.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Line Bot Application2.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\System.Web.Http.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\obj\Release\Session.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\obj\Release\Session.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\Line Bot Application2\Session\obj\Release\Session.pdb
